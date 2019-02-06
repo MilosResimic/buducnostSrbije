@@ -8,7 +8,7 @@
     "text": "Milos Resimic"
   },
   "text": {
-    "more": "I scraped 15 000 tweets with the #buducnostSrbije, the slogan of the new campaign of Serbian president. The overall network has 1673 nodes and 9441 edges. I filtered the network to achieve better visibility. The two users are linked if one user retweets another user\u0027s tweet. The network is highly centralized.",
+    "more": "I scraped 15 000 tweets with the #buducnostSrbije, the slogan of the new campaign of the Serbian president. The overall network has 1673 nodes and 9441 edges. I filtered the network to achieve better visibility. The two users are linked if one user retweets another user\u0027s tweet. The network is highly centralized.",
     "intro": " ",
     "title": "Twitter network around #buducnostSrbije"
   },
@@ -43,7 +43,7 @@
       "maxEdgeSize": 0.5,
       "minEdgeSize": 0.2,
       "minNodeSize": 1,
-      "maxNodeSize": 7
+      "maxNodeSize": 15
     },
     "mouseProperties": {
       "maxRatio": 20,
